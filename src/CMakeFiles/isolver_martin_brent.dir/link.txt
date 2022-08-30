@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o isolver_martin_brent.cpython-38-x86_64-linux-gnu.so CMakeFiles/isolver_martin_brent.dir/surface_process_brent.cpp.o  -flto 

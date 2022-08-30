@@ -1,0 +1,6 @@
+/home/sabs-r3/Desktop/modified_dispersion/Dispersion_Area/src/CMakeFiles/rebuild_cache.dir
+/home/sabs-r3/Desktop/modified_dispersion/Dispersion_Area/src/CMakeFiles/edit_cache.dir
+/home/sabs-r3/Desktop/modified_dispersion/Dispersion_Area/src/CMakeFiles/SWV_surface.dir
+/home/sabs-r3/Desktop/modified_dispersion/Dispersion_Area/src/CMakeFiles/isolver_martin_brent.dir
+/home/sabs-r3/Desktop/modified_dispersion/Dispersion_Area/src/pybind11/CMakeFiles/rebuild_cache.dir
+/home/sabs-r3/Desktop/modified_dispersion/Dispersion_Area/src/pybind11/CMakeFiles/edit_cache.dir
